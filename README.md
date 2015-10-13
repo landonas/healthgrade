@@ -1,4 +1,8 @@
 # healthgrade
+![alt tag] (https://github.com/lsoriano808/healthgrade/blob/master/BaMNK3QAAAABJRU5ErkJggg%3D%3D.png)
+
+
+
 Andorid app for viewing resuraunt's health inspection grades
 
 This README would normally document whatever steps are necessary to get your application up and running.
